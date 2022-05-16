@@ -1,6 +1,6 @@
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/uploadgdrivebot)
+- Find it on Telegram as [Google Drive Uploader](https://t.me/HyperDestroyerbot)
 
 ## Features
 - [X] Telegram files support.
@@ -17,7 +17,7 @@
 - [ ] Empty Google Drive trash.
 
 ## Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viperadnan-git/gdrive-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhiseksh/TG-FILE-TO-PERSONAL-DRIVE-BY-XdaABHI/tree/main)
 
 - Note: Bot is in beta stage. Maybe throw some errors.
 
@@ -27,7 +27,7 @@
 ### Installation
 - Clone this git repository.
 ```sh 
-git clone https://github.com/viperadnan-git/gdrive-telegram-bot
+git clone https://github.com/abhiseksh/TG-FILE-TO-PERSONAL-DRIVE-BY-XdaABHI
 ```
 - Change Directory
 ```sh 
@@ -56,10 +56,5 @@ python3 -m bot
 ```
 
 ## Credits
-- [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
-- [Spechide](https://github.com/Spechide) for [gDrive_sql.py](./bot/helpers/sql_helpers/gDriveDB.py)
-- [Shivam Jha](https://github.com/lzzy12) for [Clone Feature](./bot/helpers/gdrive_utils/gDrive.py) from [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
-
-## Copyright & License
-- Copyright (©) 2020 by [Adnan Ahmad](https://github.com/viperadnan-git)
-- Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
+- [XdaAbhi)
+````
