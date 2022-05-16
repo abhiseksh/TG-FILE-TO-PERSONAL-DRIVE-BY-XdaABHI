@@ -1,6 +1,6 @@
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/HyperDestroyerbot)
+- Find it on Telegram as [Google Drive Uploader Bot](https://t.me/HyperDestroyerbot)
 
 ## Features
 - [X] Telegram files support.
