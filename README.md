@@ -51,14 +51,6 @@ pip3 install -r requirements.txt
 - `SUDO_USERS` - List of Telegram User ID of sudo users, seperated by space.
 - `SUPPORT_CHAT_LINK` - Telegram invite link of support chat.
 
-# * DEPLOY HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhiseksh/TG-FILE-TO-PERSONAL-DRIVE-BY-XdaABHI/tree/main)
-
-### DEPLOY RAILWAY
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QCqhrw?referralCode=z99aRm)
-
-
 ### Deploy 
 ```sh 
 python3 -m bot
@@ -67,3 +59,13 @@ python3 -m bot
 ## Credits
 - [XdaAbhi]
 ````
+
+
+<> *阳痿
+
+# * DEPLOY HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhiseksh/TG-FILE-TO-PERSONAL-DRIVE-BY-XdaABHI/tree/main)
+
+### DEPLOY RAILWAY
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QCqhrw?referralCode=z99aRm)
