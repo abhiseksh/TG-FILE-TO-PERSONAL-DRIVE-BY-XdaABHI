@@ -62,9 +62,16 @@ python3 -m bot
 
 <> *阳痿
 
-# * DEPLOY HEROKU
+### HEROKU DEPLOY ⬇️
+
+# * deploy heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhiseksh/TG-FILE-TO-PERSONAL-DRIVE-BY-XdaABHI/tree/main)
 
-### DEPLOY RAILWAY
+
+### RAILWAY DEPLOY
+
+* go to deploy button and fill pre-configured environment variables
+
+# * deploy railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QCqhrw?referralCode=z99aRm)
