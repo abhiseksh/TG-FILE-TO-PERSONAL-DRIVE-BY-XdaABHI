@@ -58,7 +58,6 @@ python3 -m bot
 
 ## Credits
 - [XdaAbhi]
-````
 
 
 <> *阳痿
